@@ -1,0 +1,3 @@
+[submodule "rulebook"]
+	path = rulebook
+	url = git@github.com:pkulab409/pkudsa.realm.git
